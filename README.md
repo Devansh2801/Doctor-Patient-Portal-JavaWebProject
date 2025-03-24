@@ -35,7 +35,7 @@ The **Doctor-Patient Portal** is a web-based application developed in **Java (Se
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Doctor-Patient-Portal.git
+   git clone https://github.com/Devansh2801/Doctor-Patient-Portal.git
    ```
 2. Navigate to the project directory:
    ```sh
